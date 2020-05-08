@@ -1,6 +1,6 @@
 #介绍
 
-霍格沃茨python自动化联系
+霍格沃茨python自动化练习
 
 #quict start
 
